@@ -6,7 +6,7 @@
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
 
 ## 🧠 About Me
 
@@ -16,56 +16,70 @@
 - 💬 Ask me about AI/ML models, data analysis, or building intelligent solutions.
 - 📫 Reach me at **thrishanthreddygoli@gmail.com**
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
 
 ## 🚀 Featured Projects
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100" alt="coding animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F7B731&center=true&vCenter=true&width=500&lines=A+few+things+I've+built..." alt="projects typing svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F7B731&center=true&vCenter=true&width=500&lines=A+few+things+I've+built...;Some+Hackathon+Projects;Live+Browser+Extensions" alt="projects typing svg" />
 </div>
+<br/>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🩺 [HemoGraph](https://github.com/thrishi1011/HemoGraph)
-Hackathon project that detects early signs of anemia using AI.
+> 🏆 **Hackathon Project**
+
+Detects early signs of anemia using AI.
+
 <br/>
-<img src="https://img.shields.io/badge/-Hackathon-orange?style=flat-square"/> <img src="https://img.shields.io/badge/-AI%2FML-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Hackathon-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/-AI%2FML-blue?style=for-the-badge"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🥗 [Nutrient-Drift](https://github.com/thrishi1011/Nutrient-Drift)
+> 🏆 **Hackathon Project**
+
 Helps improve and personalize your diet plan.
+
 <br/>
-<img src="https://img.shields.io/badge/-Health%20Tech-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/-HTML-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Health%20Tech-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge"/>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌿 [Argo-Lens](https://github.com/thrishi1011/Argo-Lens)
+> 🏆 **Hackathon Project**
+
 A plant-protector tool/extension to help identify and care for plants.
+
 <br/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square"/> <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💻 [leetcode-github](https://github.com/thrishi1011/leetcode-github)
+> 🔌 **Google Extension (Installable)**
+
 LeetCode solutions with clear explanations for every problem.
+
 <br/>
-<img src="https://img.shields.io/badge/-Extension-purple?style=flat-square"/> <img src="https://img.shields.io/badge/-DSA-yellow?style=flat-square"/> 
+<img src="https://img.shields.io/badge/-Extension-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/-DSA-yellow?style=for-the-badge"/> 
 
 </td>
 </tr>
 </table>
 
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
 
 ## 🛠️ Languages & Tools
 
@@ -95,6 +109,7 @@ LeetCode solutions with clear explanations for every problem.
 </div>
 
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
 
 ## 📫 Connect with Me
 
