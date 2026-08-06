@@ -51,7 +51,7 @@ Helps improve and personalize your diet plan.
 ### 🌿 [Argo-Lens](https://github.com/thrishi1011/Argo-Lens)
 A plant-protector tool/extension to help identify and care for plants.
 <br/>
-<img src="https://img.shields.io/badge/-Extension-purple?style=flat-square"/> <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square"/> <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square"/>
 
 </td>
 <td width="50%">
@@ -59,7 +59,7 @@ A plant-protector tool/extension to help identify and care for plants.
 ### 💻 [leetcode-github](https://github.com/thrishi1011/leetcode-github)
 LeetCode solutions with clear explanations for every problem.
 <br/>
-<img src="https://img.shields.io/badge/-DSA-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Extension-purple?style=flat-square"/> <img src="https://img.shields.io/badge/-DSA-yellow?style=flat-square"/> 
 
 </td>
 </tr>
