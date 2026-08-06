@@ -37,7 +37,7 @@
 
 Detects early signs of anemia using AI.
 
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/-Hackathon-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/-AI%2FML-blue?style=for-the-badge"/>
 
 </td>
@@ -59,9 +59,9 @@ A campus network for seamless deliveries directly to hostels.
 ### 🌿 [Argo-Lens](https://github.com/thrishi1011/Argo-Lens)
 > 🏆 **Hackathon Project**
 
-A plant-protector tool/extension to help identify and care for plants.
+A plant-protector tool to help identify and care for plants.
 
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge"/>
 
 </td>
