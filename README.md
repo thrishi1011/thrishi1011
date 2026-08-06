@@ -16,6 +16,57 @@
 - 💬 Ask me about AI/ML models, data analysis, or building intelligent solutions.
 - 📫 Reach me at **thrishanthreddygoli@gmail.com**
 
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100" alt="coding animation"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F7B731&center=true&vCenter=true&width=500&lines=A+few+things+I've+built..." alt="projects typing svg" />
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🩺 [HemoGraph](https://github.com/thrishi1011/HemoGraph)
+Hackathon project that detects early signs of anemia using AI.
+<br/>
+<img src="https://img.shields.io/badge/-Hackathon-orange?style=flat-square"/> <img src="https://img.shields.io/badge/-AI%2FML-blue?style=flat-square"/>
+
+</td>
+<td width="50%">
+
+### 🥗 [Nutrient-Drift](https://github.com/thrishi1011/Nutrient-Drift)
+Helps improve and personalize your diet plan.
+<br/>
+<img src="https://img.shields.io/badge/-Health%20Tech-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/-HTML-red?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌿 [Argo-Lens](https://github.com/thrishi1011/Argo-Lens)
+A plant-protector tool/extension to help identify and care for plants.
+<br/>
+<img src="https://img.shields.io/badge/-Extension-purple?style=flat-square"/> <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square"/>
+
+</td>
+<td width="50%">
+
+### 💻 [leetcode-github](https://github.com/thrishi1011/leetcode-github)
+LeetCode solutions with clear explanations for every problem.
+<br/>
+<img src="https://img.shields.io/badge/-DSA-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## 🛠️ Languages & Tools
 
 <div align="center">
