@@ -14,25 +14,7 @@
 - 🔭 I mostly work on **Machine Learning**, **Deep Learning**, and **Data Science** projects.
 - 🌱 Currently exploring how to build **AI Agents**.
 - 💬 Ask me about AI/ML models, data analysis, or building intelligent solutions.
-- 📫 Reach me at **golirishanthreddy@gmail.com**
-
-<br/>
-
-## 🌊 Contribution Wave
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thrishi1011/thrishi1011/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thrishi1011/thrishi1011/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation floating left to right through the contribution graph" src="https://raw.githubusercontent.com/thrishi1011/thrishi1011/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<sub>⚠️ This animation needs a one-time GitHub Actions setup — see the note at the bottom of this message.</sub>
-
-<br/>
+- 📫 Reach me at **thrishanthreddygoli@gmail.com**
 
 ## 🛠️ Languages & Tools
 
@@ -67,12 +49,8 @@
 
 <div align="center">
 
-<a href="mailto:golirishanthreddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/goli-rishanth-reddy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://kaggle.com/rishanthreddyg"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="mailto:thrishanthreddygoli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/thrishanth-reddy-goli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://kaggle.com/thrishanthreddy"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer wave" width="100%"/>
