@@ -20,11 +20,10 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100" alt="coding animation"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F7B731&center=true&vCenter=true&width=500&lines=A+few+things+I've+built...;Some+Hackathon+Projects;Live+Browser+Extensions" alt="projects typing svg" />
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100" alt="coding animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F7B731&center=true&vCenter=true&width=500&lines=A+few+things+I've+built...;Some+Hackathon+Projects;Live+Browser+Extensions" alt="projects typing svg" />
+</p>
 <br/>
 
 <table align="center" width="100%">
@@ -42,13 +41,13 @@ Detects early signs of anemia using AI.
 </td>
 <td width="50%" valign="top">
 
-### 🥗 [Nutrient-Drift](https://github.com/thrishi1011/Nutrient-Drift)
-> 🏆 **Hackathon Project**
+### 📦 [Dianomi](https://github.com/thrishi1011/Dianomi)
+> 🚚 **DT Project**
 
-Helps improve and personalize your diet plan.
+A campus network for seamless deliveries directly to hostels. 
 
 <br/>
-<img src="https://img.shields.io/badge/-Health%20Tech-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge"/>
 
 </td>
 </tr>
