@@ -77,8 +77,8 @@ function buildSvg(weeks, palette) {
       transform-origin: center;
     }
     @keyframes floatWave {
-      0%, 100% { transform: translateY(0); opacity: 1; }
-      50%      { transform: translateY(-3px); opacity: 0.82; }
+      0%, 100% { transform: scale(0.55); opacity: 0.45; }
+      50%      { transform: scale(1.18); opacity: 1; }
     }
   </style>
   ${rects}
