@@ -59,7 +59,7 @@ function buildSvg(weeks, palette) {
 
   let rects = "";
   weeks.forEach((week, weekIndex) => {
-    const delay = (weekIndex * 0.045).toFixed(3);
+    const delay = (weekIndex * 0.07).toFixed(3);
     week.forEach((day, dayIndex) => {
       if (!day) return;
       const x = MARGIN + weekIndex * STEP;
@@ -77,8 +77,8 @@ function buildSvg(weeks, palette) {
       transform-origin: center;
     }
     @keyframes floatWave {
-      0%, 100% { transform: scale(0.55); opacity: 0.45; }
-      50%      { transform: scale(1.18); opacity: 1; }
+      0%, 100% { transform: scale(0.35); opacity: 0.35; filter: brightness(0.7); }
+      50%      { transform: scale(1.55); opacity: 1; filter: brightness(1.25) drop-shadow(0 0 3px rgba(0,0,0,0.35)); }
     }
   </style>
   ${rects}
